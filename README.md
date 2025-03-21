@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Weather-App
-=======
+
 # Weather-App
 
 Welcome to the Weather App, a professional web application built to provide real-time weather data and forecasts. This project showcases technical skills in modern web development, including API integration, database management, and CRUD operations.

@@ -2,6 +2,8 @@
 # Weather-App
 
 Welcome to the Weather App, a professional web application built to provide real-time weather data and forecasts. This project showcases technical skills in modern web development, including API integration, database management, and CRUD operations.
+
+View the Website: https://weather-app-klk9.vercel.app/
 ________________________________________
 Features
 
@@ -88,4 +90,3 @@ Acknowledgments
 Special thanks to:
 
 •	WeatherAPI.com for providing real-time weather data.
->>>>>>> 13e2e06 (Initial commit)
